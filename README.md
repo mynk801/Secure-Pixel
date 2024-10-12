@@ -51,3 +51,13 @@ To run the application, follow these steps:
 1. Navigate to the `Frontend` folder:
    ```bash
    cd Frontend
+
+2. Install the necessary dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the application:
+   ```bash
+   python main.py
+4. Open your browser and go to `http://127.0.0.1:5000` to access the web interface.
+
